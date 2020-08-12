@@ -1,5 +1,5 @@
 {
-  "posts": [
+  [
     {
       "id": 1,
       "title": "hello"
@@ -8,13 +8,5 @@
       "id": 2,
       "title": "world"
     }
-  ],
-  "FirstLevelObj": {
-    "id": 3,
-    "NestedObj": {
-      "id": 4,
-      "name": "Nested Object",
-      "desc": "Test unmarshaling of nested objects."
-    }
-  }
+  ]
 }
